@@ -11,6 +11,14 @@
 > 中文 Telegram 优质资源导航：机器人、频道、群组分类整理。
 > A curated, community-maintained directory of Chinese-language Telegram bots, channels, and groups.
 
+<p align="center">
+  <a href="https://dos-ai-tech.github.io/Awesome-Telegram-Chinese-2026/">
+    <img alt="访问在线网站" src="https://img.shields.io/badge/%F0%9F%8C%90_%E5%9C%A8%E7%BA%BF%E8%AE%BF%E9%97%AE-Awesome_Telegram_Chinese_2026-2DD4A7?style=for-the-badge">
+  </a>
+  <br>
+  <sub><a href="https://dos-ai-tech.github.io/Awesome-Telegram-Chinese-2026/">https://dos-ai-tech.github.io/Awesome-Telegram-Chinese-2026/</a></sub>
+</p>
+
 ## ⚡ 关于本项目 / About
 
 本项目致力于分类整理真实可用、无垃圾信息的中文 Telegram 资源，帮助大家更快找到有价值的机器人、频道与交流群组。所有条目在收录前应经过维护者或提交者的实际核实。
