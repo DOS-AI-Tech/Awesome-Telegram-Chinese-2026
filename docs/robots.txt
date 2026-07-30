@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dos-ai-tech.github.io/Awesome-Telegram-Chinese-2026/sitemap.xml
