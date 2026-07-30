@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+
+# Raw scraped/aggregated link dumps — not personally verified, don't belong
+# in data/ alongside the curated, contributor-verified resource files.
+data/Telegram-links.csv
