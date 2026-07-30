@@ -1,0 +1,55 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Awesome Telegram Chinese 2026 banner">
+  <defs>
+    <linearGradient id="bannerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="55%" stop-color="#2DD4A7"/>
+      <stop offset="100%" stop-color="#86EFAC"/>
+    </linearGradient>
+    <radialGradient id="sparkle" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="logoClip">
+      <circle cx="60" cy="60" r="58"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="260" rx="32" fill="url(#bannerBg)"/>
+
+  <!-- soft sparkle accents -->
+  <circle cx="1040" cy="55" r="60" fill="url(#sparkle)"/>
+  <circle cx="120" cy="210" r="50" fill="url(#sparkle)"/>
+  <g fill="#FFFFFF" opacity="0.85">
+    <path d="M1090 30 l4 12 12 4 -12 4 -4 12 -4 -12 -12 -4 12 -4 z"/>
+    <path d="M60 60 l3 9 9 3 -9 3 -3 9 -3 -9 -9 -3 9 -3 z"/>
+    <path d="M150 40 l2.5 7.5 7.5 2.5 -7.5 2.5 -2.5 7.5 -2.5 -7.5 -7.5 -2.5 7.5 -2.5 z"/>
+  </g>
+
+  <!-- 易搜 logo emblem (project mark) -->
+  <g transform="translate(70,70)">
+    <circle cx="60" cy="60" r="58" fill="#FFFFFF"/>
+    <image href="ezsou-logo.png" x="2" y="2" width="116" height="116" clip-path="url(#logoClip)" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="60" cy="60" r="58" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.9"/>
+  </g>
+
+  <!-- title -->
+  <text x="230" y="115" font-family="'PingFang SC','Microsoft YaHei',-apple-system,'Segoe UI',sans-serif" font-size="46" font-weight="700" fill="#083344">
+    Awesome Telegram Chinese 2026
+  </text>
+  <text x="232" y="158" font-family="'PingFang SC','Microsoft YaHei',-apple-system,'Segoe UI',sans-serif" font-size="26" font-weight="500" fill="#0F3B33">
+    中文 Telegram 优质资源导航 · 机器人 · 频道 · 群组
+  </text>
+
+  <!-- maintainer credit chip -->
+  <g transform="translate(232,188)">
+    <rect width="330" height="46" rx="23" fill="#FFFFFF" opacity="0.9"/>
+    <g transform="translate(14,9)">
+      <circle cx="14" cy="14" r="14" fill="#0EA5A0"/>
+      <circle cx="17" cy="11" r="7" fill="none" stroke="#FFFFFF" stroke-width="2.4"/>
+      <line x1="22" y1="16" x2="27" y2="21" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round"/>
+    </g>
+    <text x="44" y="24" font-family="'PingFang SC','Microsoft YaHei',-apple-system,'Segoe UI',sans-serif" font-size="19" font-weight="600" fill="#0F3B33">
+      本项目由 易搜 维护
+    </text>
+  </g>
+</svg>
