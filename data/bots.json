@@ -1,20 +1,20 @@
 [
   {
-    "name": "示例：AI 助理机器人 (占位)",
-    "username": "example_ai_bot",
-    "url": "https://t.me/example_ai_bot",
-    "description": "占位条目 — 请替换为你已实际核实过的真实机器人及准确介绍。",
-    "category": "AI 助理",
-    "added_by": "template",
-    "verified": false
+    "name": "易搜中文搜索",
+    "username": "ezsou_bot",
+    "url": "https://t.me/ezsou_bot",
+    "description": "全媒体搜索机器人, 易搜中文搜索，一搜就有！",
+    "category": "工具",
+    "added_by": "ezsou",
+    "verified": true
   },
   {
-    "name": "示例：格式转换机器人 (占位)",
-    "username": "example_convert_bot",
-    "url": "https://t.me/example_convert_bot",
-    "description": "占位条目 — 请替换为你已实际核实过的真实机器人及准确介绍。",
-    "category": "格式转换",
-    "added_by": "template",
-    "verified": false
+    "name": "AI图片&提示词机器人",
+    "username": "aitiwen_bot",
+    "url": "https://t.me/aitiwen_bot",
+    "description": "AI图片欣赏,高质量提示词&Prompt 下载。",
+    "category": "AI",
+    "added_by": "ezsou",
+    "verified": true
   }
 ]

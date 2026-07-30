@@ -13,6 +13,7 @@ Usage:
 """
 import argparse
 import json
+import urllib.parse
 from collections import defaultdict
 from pathlib import Path
 
@@ -53,6 +54,24 @@ def render_table(entries) -> str:
     return "\n".join(lines)
 
 
+def shields_escape(text: str) -> str:
+    # shields.io static-badge syntax: literal "-" and " " in label/message
+    # text must be escaped before the value is placed into the badge URL.
+    text = text.replace("-", "--").replace(" ", "_")
+    return urllib.parse.quote(text, safe="_")
+
+
+def render_badge(info: dict) -> str:
+    channel_url = info.get("channel_url", "")
+    if not channel_url:
+        return ""
+    label = shields_escape("Telegram")
+    message = shields_escape(info.get("badge_label", "加入频道"))
+    color = info.get("badge_color", "blue")
+    badge_url = f"https://img.shields.io/badge/{label}-{message}-{color}?logo=telegram&logoColor=white"
+    return f"[![Telegram]({badge_url})]({channel_url})\n\n"
+
+
 def render_maintainer(data_dir: Path) -> str:
     path = data_dir / "maintainer.json"
     if not path.exists():
@@ -61,7 +80,8 @@ def render_maintainer(data_dir: Path) -> str:
     name = info.get("name", "")
     channel_name = info.get("channel_name", "")
     channel_url = info.get("channel_url", "")
-    return f"本项目由 **{name}** 维护。项目相关讨论 / 联系方式：[{channel_name}]({channel_url})\n"
+    badge = render_badge(info)
+    return f"{badge}本项目由 **{name}** 维护。项目相关讨论 / 联系方式：[{channel_name}]({channel_url})\n"
 
 
 def replace_section(content: str, marker: str, replacement: str) -> str:
