@@ -30,6 +30,15 @@ SITE_KEYWORDS = (
 )
 REPO_URL = "https://github.com/DOS-AI-Tech/Awesome-Telegram-Chinese-2026"
 
+# hits.sh counts one hit per image load — not a real unique-visitor count
+# (bots/caches/repeat loads all increment it), just a public "for fun"
+# counter. Derived from SITE_URL so it can't drift out of sync.
+_HITS_TARGET = SITE_URL.split("://", 1)[1].rstrip("/")
+HITS_BADGE_URL = (
+    f"https://hits.sh/{_HITS_TARGET}.svg"
+    "?style=flat-square&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=2DD4A7"
+)
+
 SECTIONS = [
     ("bots", "🤖 实用机器人", "AI 助理、格式转换、下载工具等。", "bots.json"),
     ("channels", "📢 资讯与技术频道", "科技新闻、开发者社区、行业动态等。", "channels.json"),
@@ -275,6 +284,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
   {maintainer_footer}
   <p>数据源与完整文档见 <a href="{repo_url}" target="_blank" rel="noopener noreferrer">GitHub 仓库</a>。</p>
   <p>© {year} {site_name} · <a href="{repo_url}/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">MIT License</a></p>
+  <p><img src="{hits_badge_url}" alt="访问量统计" width="60" height="20" loading="lazy"></p>
 </footer>
 
 <script>
@@ -320,6 +330,7 @@ def main():
         json_ld=build_json_ld(all_entries),
         sections_html="\n\n".join(sections_html_parts),
         maintainer_footer=render_maintainer_footer(args.data_dir),
+        hits_badge_url=HITS_BADGE_URL,
         year=date.today().year,
     )
 
