@@ -1,4 +1,6 @@
-<img src="assets/logo.svg" align="right" width="120" alt="Awesome Telegram Chinese 2026 logo" />
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Awesome Telegram Chinese 2026 banner" />
+</p>
 
 # Awesome Telegram Chinese 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
