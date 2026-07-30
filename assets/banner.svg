@@ -9,6 +9,9 @@
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
       <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
     </radialGradient>
+    <clipPath id="logoClip">
+      <circle cx="60" cy="60" r="58"/>
+    </clipPath>
   </defs>
 
   <rect width="1200" height="260" rx="32" fill="url(#bannerBg)"/>
@@ -22,19 +25,11 @@
     <path d="M150 40 l2.5 7.5 7.5 2.5 -7.5 2.5 -2.5 7.5 -2.5 -7.5 -7.5 -2.5 7.5 -2.5 z"/>
   </g>
 
-  <!-- compass emblem (project mark) -->
+  <!-- 易搜 logo emblem (project mark) -->
   <g transform="translate(70,70)">
-    <circle cx="60" cy="60" r="58" fill="#FFFFFF" opacity="0.95"/>
-    <circle cx="60" cy="60" r="40" fill="none" stroke="#1E6FE0" stroke-width="5"/>
-    <circle cx="60" cy="30" r="3.5" fill="#1E6FE0"/>
-    <circle cx="60" cy="90" r="3.5" fill="#1E6FE0"/>
-    <circle cx="30" cy="60" r="3.5" fill="#1E6FE0"/>
-    <circle cx="90" cy="60" r="3.5" fill="#1E6FE0"/>
-    <polygon points="60,36 71,60 60,53" fill="#1E6FE0"/>
-    <polygon points="60,36 49,60 60,53" fill="#8FD0FF"/>
-    <polygon points="60,84 49,60 60,67" fill="#1E6FE0"/>
-    <polygon points="60,84 71,60 60,67" fill="#8FD0FF"/>
-    <circle cx="60" cy="60" r="5" fill="#1E6FE0" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="60" cy="60" r="58" fill="#FFFFFF"/>
+    <image href="ezsou-logo.png" x="2" y="2" width="116" height="116" clip-path="url(#logoClip)" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="60" cy="60" r="58" fill="none" stroke="#FFFFFF" stroke-width="3" opacity="0.9"/>
   </g>
 
   <!-- title -->
