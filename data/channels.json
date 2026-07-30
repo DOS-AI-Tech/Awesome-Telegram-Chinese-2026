@@ -1,11 +1,47 @@
 [
   {
-    "name": "示例：科技资讯频道 (占位)",
-    "username": "example_tech_channel",
-    "url": "https://t.me/example_tech_channel",
-    "description": "占位条目 — 请替换为你已实际核实过的真实频道及准确介绍，避免收录无法核实内容合规性的频道。",
+    "name": "AI中文社区｜AI新闻｜ AI赚钱",
+    "username": "aipluscn",
+    "url": "https://t.me/aipluscn",
+    "description": "AI中文社区，AI行业动态，AI工具，大模型趋势与情报，  AI赚钱案例分享！",
     "category": "资讯与技术",
-    "added_by": "template",
-    "verified": false
+    "added_by": "ezsou",
+    "verified": true
+  },
+  {
+    "name": "🎬 AI+ ｜AI视频制作工具｜流程｜视频分享",
+    "username": "longxiasq",
+    "url": "https://t.me/longxiasq",
+    "description": "AI视频展示，AI视频制作流程拆解，工具分享！",
+    "category": "AI应用",
+    "added_by": "ezsou",
+    "verified": true
+  },
+  {
+    "name": "🤖 AI+｜AI编程&程序开发",
+    "username": "clawstaffs",
+    "url": "https://t.me/clawstaffs",
+    "description": "用 AI 自动化开发技术构建 AI Agent,数字员工 提效你的业务！",
+    "category": "AI应用",
+    "added_by": "ezsou",
+    "verified": true
+  },
+  {
+    "name": "🎨 AI+｜AI做图 & 提示词分享",
+    "username": "ailibrarya",
+    "url": "https://t.me/ailibrarya",
+    "description": "分享 GPT Image、Midjourney、FLUX、Nano Banana、Grok提示词/Prompt与做图技巧,每周更新！",
+    "category": "AI应用",
+    "added_by": "ezsou",
+    "verified": true
+  },
+  {
+    "name": "👷 AI+ ｜AI提效工具&Tools推荐",
+    "username": "skillslib",
+    "url": "https://t.me/skillslib",
+    "description": "用 AI 把你的工作效率提高 10 倍，每周分享实战工作流、skills、Agent、AI工具、AI应用案例！",
+    "category": "AI应用",
+    "added_by": "ezsou",
+    "verified": true
   }
 ]

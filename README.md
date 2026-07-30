@@ -23,17 +23,17 @@ AI 助理、格式转换、下载工具等。
 
 <!-- BOTS:START -->
 
-#### AI 助理
+#### AI
 
 | 名称 | 链接 | 简介 |
 | --- | --- | --- |
-| 示例：AI 助理机器人 (占位) | [https://t.me/example_ai_bot](https://t.me/example_ai_bot) | 占位条目 — 请替换为你已实际核实过的真实机器人及准确介绍。 |
+| AI图片&提示词机器人 | [https://t.me/aitiwen_bot](https://t.me/aitiwen_bot) | AI图片欣赏,高质量提示词&Prompt 下载。 |
 
-#### 格式转换
+#### 工具
 
 | 名称 | 链接 | 简介 |
 | --- | --- | --- |
-| 示例：格式转换机器人 (占位) | [https://t.me/example_convert_bot](https://t.me/example_convert_bot) | 占位条目 — 请替换为你已实际核实过的真实机器人及准确介绍。 |
+| 易搜中文搜索 | [https://t.me/ezsou_bot](https://t.me/ezsou_bot) | 全媒体搜索机器人, 易搜中文搜索，一搜就有！ |
 
 <!-- BOTS:END -->
 
@@ -43,11 +43,20 @@ AI 助理、格式转换、下载工具等。
 
 <!-- CHANNELS:START -->
 
+#### AI应用
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| 🎬 AI+ ｜AI视频制作工具｜流程｜视频分享 | [https://t.me/longxiasq](https://t.me/longxiasq) | AI视频展示，AI视频制作流程拆解，工具分享！ |
+| 🤖 AI+｜AI编程&程序开发 | [https://t.me/clawstaffs](https://t.me/clawstaffs) | 用 AI 自动化开发技术构建 AI Agent,数字员工 提效你的业务！ |
+| 🎨 AI+｜AI做图 & 提示词分享 | [https://t.me/ailibrarya](https://t.me/ailibrarya) | 分享 GPT Image、Midjourney、FLUX、Nano Banana、Grok提示词/Prompt与做图技巧,每周更新！ |
+| 👷 AI+ ｜AI提效工具&Tools推荐 | [https://t.me/skillslib](https://t.me/skillslib) | 用 AI 把你的工作效率提高 10 倍，每周分享实战工作流、skills、Agent、AI工具、AI应用案例！ |
+
 #### 资讯与技术
 
 | 名称 | 链接 | 简介 |
 | --- | --- | --- |
-| 示例：科技资讯频道 (占位) | [https://t.me/example_tech_channel](https://t.me/example_tech_channel) | 占位条目 — 请替换为你已实际核实过的真实频道及准确介绍，避免收录无法核实内容合规性的频道。 |
+| AI中文社区｜AI新闻｜ AI赚钱 | [https://t.me/aipluscn](https://t.me/aipluscn) | AI中文社区，AI行业动态，AI工具，大模型趋势与情报，  AI赚钱案例分享！ |
 
 <!-- CHANNELS:END -->
 
@@ -61,7 +70,7 @@ AI 助理、格式转换、下载工具等。
 
 | 名称 | 链接 | 简介 |
 | --- | --- | --- |
-| 示例：纯交流群组 (占位) | [https://t.me/example_discuss_group](https://t.me/example_discuss_group) | 占位条目 — 请替换为真实、以禁止广告 / 高质量交流为特色的群组，并注明入群规则。 |
+| 出海创业交流群 | [https://t.me/NewAICommunity](https://t.me/NewAICommunity) | 🚀 出海创业者交流平台, 商机共享, 商业合作! |
 
 <!-- GROUPS:END -->
 
