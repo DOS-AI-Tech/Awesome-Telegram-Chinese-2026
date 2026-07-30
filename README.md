@@ -2,7 +2,11 @@
   <img src="assets/banner.svg" width="100%" alt="Awesome Telegram Chinese 2026 banner" />
 </p>
 
-# Awesome Telegram Chinese 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Telegram Chinese 2026
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Telegram](https://img.shields.io/badge/Telegram-%E5%8A%A0%E5%85%A5%E9%A2%91%E9%81%93-26A5E4?logo=telegram&logoColor=white)](https://t.me/ezsoua)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 中文 Telegram 优质资源导航：机器人、频道、群组分类整理。
 > A curated, community-maintained directory of Chinese-language Telegram bots, channels, and groups.
