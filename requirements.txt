@@ -1,0 +1,3 @@
+# scripts/link_checker.py and scripts/generate_readme.py currently rely only
+# on the Python standard library. This file is kept so the project has a
+# conventional dependency manifest to extend if future tooling needs one.
