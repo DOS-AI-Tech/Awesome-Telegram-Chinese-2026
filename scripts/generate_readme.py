@@ -32,6 +32,13 @@ def load(data_dir: Path, filename: str):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def escape_cell(text: str) -> str:
+    # A literal "|" inside a markdown table cell splits it into extra
+    # columns unless escaped — several real channel names use "|" as a
+    # visual separator (e.g. "流行音乐 | 听歌吧 | @tingeb").
+    return text.replace("|", "\\|")
+
+
 def render_table(entries) -> str:
     if not entries:
         return "_暂无条目，欢迎提交 PR 补充。_\n"
@@ -46,9 +53,9 @@ def render_table(entries) -> str:
         lines.append("| 名称 | 链接 | 简介 |")
         lines.append("| --- | --- | --- |")
         for entry in by_category[category]:
-            name = entry.get("name", "")
+            name = escape_cell(entry.get("name", ""))
             url = entry.get("url", "")
-            desc = entry.get("description", "")
+            desc = escape_cell(entry.get("description", ""))
             lines.append(f"| {name} | [{url}]({url}) | {desc} |")
         lines.append("")
     return "\n".join(lines)

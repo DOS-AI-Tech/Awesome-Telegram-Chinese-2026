@@ -1,4 +1,6 @@
-# Awesome Telegram Chinese 2026
+<img src="assets/logo.svg" align="right" width="120" alt="Awesome Telegram Chinese 2026 logo" />
+
+# Awesome Telegram Chinese 2026 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 中文 Telegram 优质资源导航：机器人、频道、群组分类整理。
 > A curated, community-maintained directory of Chinese-language Telegram bots, channels, and groups.
@@ -57,6 +59,12 @@ AI 助理、格式转换、下载工具等。
 | 名称 | 链接 | 简介 |
 | --- | --- | --- |
 | AI中文社区｜AI新闻｜ AI赚钱 | [https://t.me/aipluscn](https://t.me/aipluscn) | AI中文社区，AI行业动态，AI工具，大模型趋势与情报，  AI赚钱案例分享！ |
+
+#### 音乐
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| 流行音乐 \| 听歌吧 \| @tingeb | [https://t.me/tingeb](https://t.me/tingeb) | 分享流行音乐，推荐好歌，一起听歌吧！ |
 
 <!-- CHANNELS:END -->
 
