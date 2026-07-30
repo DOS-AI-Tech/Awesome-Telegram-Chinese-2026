@@ -15,10 +15,18 @@ from pathlib import Path
 
 SITE_URL = "https://dos-ai-tech.github.io/Awesome-Telegram-Chinese-2026/"
 SITE_NAME = "Awesome Telegram Chinese 2026"
-SITE_TITLE = "Awesome Telegram Chinese 2026 | 中文 Telegram 优质资源导航（机器人·频道·群组）"
+SITE_TITLE = "2026 Awesome Telegram Chinese - 最新中文电报群、频道与机器人导航大全"
 SITE_DESCRIPTION = (
-    "精心分类整理 2026 年最新、真实可用的中文 Telegram 机器人、频道与交流群组，"
-    "所有条目均经过维护者或提交者亲自核实，持续更新，欢迎提交 PR 补充。"
+    "精心分类整理 2026 年最新、真实可用的中文 Telegram 机器人、频道与交流群组。"
+    "由易搜搜索长期维护，所有条目均经过维护者或提交者亲自核实，拒绝垃圾广告，持续更新，欢迎提交 PR 补充。"
+)
+# Note: Google has ignored the keywords meta tag for ranking purposes since
+# ~2009 — it's included here only because some other engines/crawlers still
+# read it, not because it affects Google SEO. Keep this list honest (actual
+# categories/entries below), not stuffed with unrelated high-traffic terms.
+SITE_KEYWORDS = (
+    "telegram中文群组, 2026电报群导航, telegram机器人导航, telegram频道推荐, "
+    "AI提示词频道, 出海交流群, 中文电报导航, awesome telegram"
 )
 REPO_URL = "https://github.com/DOS-AI-Tech/Awesome-Telegram-Chinese-2026"
 
@@ -113,6 +121,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{site_title}</title>
 <meta name="description" content="{site_description}">
+<meta name="keywords" content="{site_keywords}">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="{site_url}">
 <link rel="icon" type="image/png" href="assets/favicon-64.png">
@@ -304,6 +313,7 @@ def main():
     html_out = PAGE_TEMPLATE.format(
         site_title=esc(SITE_TITLE),
         site_description=esc(SITE_DESCRIPTION),
+        site_keywords=esc(SITE_KEYWORDS),
         site_name=esc(SITE_NAME),
         site_url=SITE_URL,
         repo_url=REPO_URL,
