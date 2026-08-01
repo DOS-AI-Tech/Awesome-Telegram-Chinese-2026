@@ -52,5 +52,32 @@
     "category": "音乐",
     "added_by": "ezsou",
     "verified": true
+  },
+  {
+    "name": "星洲日报 Sin Chew Daily",
+    "username": "sinchewtelegram",
+    "url": "https://t.me/sinchewtelegram",
+    "description": "《星洲日报》Telegram平台 每天为你送上即时及重要新闻",
+    "category": "新闻",
+    "added_by": "ezsou",
+    "verified": true
+  },
+  {
+    "name": "zaobao.sg 早报",
+    "username": "zaobaosg",
+    "url": "https://t.me/zaobaosg",
+    "description": "《联合早报》以睿智亲和的内容，与你共谈天下事。",
+    "category": "新闻",
+    "added_by": "ezsou",
+    "verified": true
+  },
+  {
+    "name": "南洋商报 Nanyang Siang Pau",
+    "username": "enanyang",
+    "url": "https://t.me/enanyang",
+    "description": "《南洋商报》是马来西亚最具影响力和公信力的中文财经日报。",
+    "category": "新闻",
+    "added_by": "ezsou",
+    "verified": true
   }
 ]

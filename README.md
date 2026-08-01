@@ -68,6 +68,14 @@ AI 助理、格式转换、下载工具等。
 | 🎨 AI+｜AI做图 & 提示词分享 | [https://t.me/ailibrarya](https://t.me/ailibrarya) | 分享 GPT Image、Midjourney、FLUX、Nano Banana、Grok提示词/Prompt与做图技巧,每周更新！ |
 | 👷 AI+ ｜AI提效工具&Tools推荐 | [https://t.me/skillslib](https://t.me/skillslib) | 用 AI 把你的工作效率提高 10 倍，每周分享实战工作流、skills、Agent、AI工具、AI应用案例！ |
 
+#### 新闻
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| 星洲日报 Sin Chew Daily | [https://t.me/sinchewtelegram](https://t.me/sinchewtelegram) | 《星洲日报》Telegram平台 每天为你送上即时及重要新闻 |
+| zaobao.sg 早报 | [https://t.me/zaobaosg](https://t.me/zaobaosg) | 《联合早报》以睿智亲和的内容，与你共谈天下事。 |
+| 南洋商报 Nanyang Siang Pau | [https://t.me/enanyang](https://t.me/enanyang) | 《南洋商报》是马来西亚最具影响力和公信力的中文财经日报。 |
+
 #### 资讯与技术
 
 | 名称 | 链接 | 简介 |
