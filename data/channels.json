@@ -79,5 +79,266 @@
     "category": "新闻",
     "added_by": "ezsou",
     "verified": true
+  },
+  {
+    "name": "海外大事件-USD1",
+    "username": "haiwaidashijian",
+    "url": "https://t.me/haiwaidashijian",
+    "description": "海外大事件与 USD1 资讯聚合，关注国际财经与热点事件。",
+    "category": "新闻",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "中国报 China Press",
+    "username": "chinapressonline",
+    "url": "https://t.me/chinapressonline",
+    "description": "中国报中文新闻与即时资讯频道，覆盖本地热点与财经信息。",
+    "category": "新闻",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "全网吃瓜🍉",
+    "username": "aichiguaba",
+    "url": "https://t.me/aichiguaba",
+    "description": "全网热点吐槽、八卦与事件索引，关注社交媒体热议话题。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "树洞🌳群友问❓有点意思🗳",
+    "username": "shortcutscn",
+    "url": "https://t.me/shortcutscn",
+    "description": "群友提问与趣味讨论区，内容轻松、实用且充满好奇心。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "Genshin PaiHub",
+    "username": "paihub",
+    "url": "https://t.me/paihub",
+    "description": "原神相关资讯、资源与社区讨论频道，覆盖各类热点内容。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "[NSFW]小说分享",
+    "username": "novel_174",
+    "url": "https://t.me/novel_174",
+    "description": "小说分享与题材聚合频道，内容偏成人向与故事资源整理。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "YuanShen Hub",
+    "username": "yuanshenhub",
+    "url": "https://t.me/yuanshenhub",
+    "description": "原神资讯、资源与相关社区情报聚合。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "大学生泄密预览",
+    "username": "dxsbyyl6",
+    "url": "https://t.me/dxsbyyl6",
+    "description": "学生相关信息与事件预览、线索反馈与讨论聚合。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "东南亚大事件",
+    "username": "daxxx",
+    "url": "https://t.me/daxxx",
+    "description": "东南亚热点事件、新闻与时事分析频道。",
+    "category": "新闻",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "米哈的 Telegram 工具箱",
+    "username": "tgbotdevelopment",
+    "url": "https://t.me/tgbotdevelopment",
+    "description": "Telegram 工具、机器人开发与频道管理技巧分享。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "爱玩机工具箱(文件/通知)",
+    "username": "aiwanji",
+    "url": "https://t.me/aiwanji",
+    "description": "工具、文件与通知资源分享，适合实用型用户收集信息。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "有米工具官方频道",
+    "username": "youmi_official",
+    "url": "https://t.me/youmi_official",
+    "description": "工具官方资讯、更新与使用指南发布渠道。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "撸空投💰币圈💰Web3💰财务自由",
+    "username": "tglukongtou",
+    "url": "https://t.me/tglukongtou",
+    "description": "币圈空投、Web3 资讯与财务自由相关讨论。",
+    "category": "Web3",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "Toncoin 中文频道",
+    "username": "toncoin_cn",
+    "url": "https://t.me/toncoin_cn",
+    "description": "Toncoin 中文资讯与生态动态更新频道。",
+    "category": "Web3",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "獨立媒體 inmediahk.net",
+    "username": "inmediahknet",
+    "url": "https://t.me/inmediahknet",
+    "description": "香港独立媒体新闻与分析资讯频道。",
+    "category": "新闻",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "FTX公告",
+    "username": "ftx_cn",
+    "url": "https://t.me/ftx_cn",
+    "description": "FTX 相关公告、资讯与交易动态更新。",
+    "category": "Web3",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "【真人AI短剧 |AI 成人短剧 | NSFW | 国漫】",
+    "username": "airvip8",
+    "url": "https://t.me/airvip8",
+    "description": "AI 成人短剧与国漫题材内容聚合分享频道。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "舰队のai漫改成人涩短剧",
+    "username": "animation_favorites",
+    "url": "https://t.me/animation_favorites",
+    "description": "AI 漫改成人短剧与动画内容收藏频道。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "咪咕资源【Ai成人短剧】",
+    "username": "styun84",
+    "url": "https://t.me/styun84",
+    "description": "AI 成人短剧资源分享与内容更新频道。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "精选ai成人短剧",
+    "username": "ojgorgr",
+    "url": "https://t.me/ojgorgr",
+    "description": "精选 AI 成人短剧内容与更新推荐。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "西瓜短剧(AI短剧)",
+    "username": "xgduanju",
+    "url": "https://t.me/xgduanju",
+    "description": "AI 短剧内容与动画式资源整理频道。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "抖音AI动漫短剧视频",
+    "username": "tamanila",
+    "url": "https://t.me/tamanila",
+    "description": "抖音 AI 动漫短剧视频与内容推荐聚合。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "【华尔街见闻】- 财经时讯 | AI 实时互动",
+    "username": "financenewsdaily",
+    "url": "https://t.me/financenewsdaily",
+    "description": "财经时讯、AI 实时互动与市场资讯频道。",
+    "category": "新闻",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "网络技术文章分享",
+    "username": "wzxylh",
+    "url": "https://t.me/wzxylh",
+    "description": "网络技术、编程与文章转载分享频道。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "Ai一线 | 软件 资讯 新闻",
+    "username": "followbun",
+    "url": "https://t.me/followbun",
+    "description": "AI、软件和资讯热点聚合与更新频道。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "趣猫🐱",
+    "username": "qumao",
+    "url": "https://t.me/qumao",
+    "description": "趣味内容、社交热点与轻松互动频道。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "原神涩区！",
+    "username": "yuanshen47",
+    "url": "https://t.me/yuanshen47",
+    "description": "原神相关成人内容与相关交流聚合频道。",
+    "category": "AI应用",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "宇宙自然博物馆",
+    "username": "manhuadao04",
+    "url": "https://t.me/manhuadao04",
+    "description": "自然科普与知识分享型频道，涵盖内容探索与学习。",
+    "category": "资讯与技术",
+    "added_by": "community",
+    "verified": true
+  },
+  {
+    "name": "资源搬运collectの快乐仓库基地",
+    "username": "banyzy",
+    "url": "https://t.me/banyzy",
+    "description": "资源搬运与素材收集整合，覆盖多个主题内容。",
+    "category": "资源",
+    "added_by": "community",
+    "verified": true
   }
 ]

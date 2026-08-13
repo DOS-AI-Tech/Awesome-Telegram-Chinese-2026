@@ -67,6 +67,24 @@ AI 助理、格式转换、下载工具等。
 | 🤖 AI+｜AI编程&程序开发 | [https://t.me/clawstaffs](https://t.me/clawstaffs) | 用 AI 自动化开发技术构建 AI Agent,数字员工 提效你的业务！ |
 | 🎨 AI+｜AI做图 & 提示词分享 | [https://t.me/ailibrarya](https://t.me/ailibrarya) | 分享 GPT Image、Midjourney、FLUX、Nano Banana、Grok提示词/Prompt与做图技巧,每周更新！ |
 | 👷 AI+ ｜AI提效工具&Tools推荐 | [https://t.me/skillslib](https://t.me/skillslib) | 用 AI 把你的工作效率提高 10 倍，每周分享实战工作流、skills、Agent、AI工具、AI应用案例！ |
+| Genshin PaiHub | [https://t.me/paihub](https://t.me/paihub) | 原神相关资讯、资源与社区讨论频道，覆盖各类热点内容。 |
+| [NSFW]小说分享 | [https://t.me/novel_174](https://t.me/novel_174) | 小说分享与题材聚合频道，内容偏成人向与故事资源整理。 |
+| YuanShen Hub | [https://t.me/yuanshenhub](https://t.me/yuanshenhub) | 原神资讯、资源与相关社区情报聚合。 |
+| 【真人AI短剧 \|AI 成人短剧 \| NSFW \| 国漫】 | [https://t.me/airvip8](https://t.me/airvip8) | AI 成人短剧与国漫题材内容聚合分享频道。 |
+| 舰队のai漫改成人涩短剧 | [https://t.me/animation_favorites](https://t.me/animation_favorites) | AI 漫改成人短剧与动画内容收藏频道。 |
+| 咪咕资源【Ai成人短剧】 | [https://t.me/styun84](https://t.me/styun84) | AI 成人短剧资源分享与内容更新频道。 |
+| 精选ai成人短剧 | [https://t.me/ojgorgr](https://t.me/ojgorgr) | 精选 AI 成人短剧内容与更新推荐。 |
+| 西瓜短剧(AI短剧) | [https://t.me/xgduanju](https://t.me/xgduanju) | AI 短剧内容与动画式资源整理频道。 |
+| 抖音AI动漫短剧视频 | [https://t.me/tamanila](https://t.me/tamanila) | 抖音 AI 动漫短剧视频与内容推荐聚合。 |
+| 原神涩区！ | [https://t.me/yuanshen47](https://t.me/yuanshen47) | 原神相关成人内容与相关交流聚合频道。 |
+
+#### Web3
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| 撸空投💰币圈💰Web3💰财务自由 | [https://t.me/tglukongtou](https://t.me/tglukongtou) | 币圈空投、Web3 资讯与财务自由相关讨论。 |
+| Toncoin 中文频道 | [https://t.me/toncoin_cn](https://t.me/toncoin_cn) | Toncoin 中文资讯与生态动态更新频道。 |
+| FTX公告 | [https://t.me/ftx_cn](https://t.me/ftx_cn) | FTX 相关公告、资讯与交易动态更新。 |
 
 #### 新闻
 
@@ -75,12 +93,33 @@ AI 助理、格式转换、下载工具等。
 | 星洲日报 Sin Chew Daily | [https://t.me/sinchewtelegram](https://t.me/sinchewtelegram) | 《星洲日报》Telegram平台 每天为你送上即时及重要新闻 |
 | zaobao.sg 早报 | [https://t.me/zaobaosg](https://t.me/zaobaosg) | 《联合早报》以睿智亲和的内容，与你共谈天下事。 |
 | 南洋商报 Nanyang Siang Pau | [https://t.me/enanyang](https://t.me/enanyang) | 《南洋商报》是马来西亚最具影响力和公信力的中文财经日报。 |
+| 海外大事件-USD1 | [https://t.me/haiwaidashijian](https://t.me/haiwaidashijian) | 海外大事件与 USD1 资讯聚合，关注国际财经与热点事件。 |
+| 中国报 China Press | [https://t.me/chinapressonline](https://t.me/chinapressonline) | 中国报中文新闻与即时资讯频道，覆盖本地热点与财经信息。 |
+| 东南亚大事件 | [https://t.me/daxxx](https://t.me/daxxx) | 东南亚热点事件、新闻与时事分析频道。 |
+| 獨立媒體 inmediahk.net | [https://t.me/inmediahknet](https://t.me/inmediahknet) | 香港独立媒体新闻与分析资讯频道。 |
+| 【华尔街见闻】- 财经时讯 \| AI 实时互动 | [https://t.me/financenewsdaily](https://t.me/financenewsdaily) | 财经时讯、AI 实时互动与市场资讯频道。 |
+
+#### 资源
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| 资源搬运collectの快乐仓库基地 | [https://t.me/banyzy](https://t.me/banyzy) | 资源搬运与素材收集整合，覆盖多个主题内容。 |
 
 #### 资讯与技术
 
 | 名称 | 链接 | 简介 |
 | --- | --- | --- |
 | AI中文社区｜AI新闻｜ AI赚钱 | [https://t.me/aipluscn](https://t.me/aipluscn) | AI中文社区，AI行业动态，AI工具，大模型趋势与情报，  AI赚钱案例分享！ |
+| 全网吃瓜🍉 | [https://t.me/aichiguaba](https://t.me/aichiguaba) | 全网热点吐槽、八卦与事件索引，关注社交媒体热议话题。 |
+| 树洞🌳群友问❓有点意思🗳 | [https://t.me/shortcutscn](https://t.me/shortcutscn) | 群友提问与趣味讨论区，内容轻松、实用且充满好奇心。 |
+| 大学生泄密预览 | [https://t.me/dxsbyyl6](https://t.me/dxsbyyl6) | 学生相关信息与事件预览、线索反馈与讨论聚合。 |
+| 米哈的 Telegram 工具箱 | [https://t.me/tgbotdevelopment](https://t.me/tgbotdevelopment) | Telegram 工具、机器人开发与频道管理技巧分享。 |
+| 爱玩机工具箱(文件/通知) | [https://t.me/aiwanji](https://t.me/aiwanji) | 工具、文件与通知资源分享，适合实用型用户收集信息。 |
+| 有米工具官方频道 | [https://t.me/youmi_official](https://t.me/youmi_official) | 工具官方资讯、更新与使用指南发布渠道。 |
+| 网络技术文章分享 | [https://t.me/wzxylh](https://t.me/wzxylh) | 网络技术、编程与文章转载分享频道。 |
+| Ai一线 \| 软件 资讯 新闻 | [https://t.me/followbun](https://t.me/followbun) | AI、软件和资讯热点聚合与更新频道。 |
+| 趣猫🐱 | [https://t.me/qumao](https://t.me/qumao) | 趣味内容、社交热点与轻松互动频道。 |
+| 宇宙自然博物馆 | [https://t.me/manhuadao04](https://t.me/manhuadao04) | 自然科普与知识分享型频道，涵盖内容探索与学习。 |
 
 #### 音乐
 
