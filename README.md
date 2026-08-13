@@ -67,16 +67,6 @@ AI 助理、格式转换、下载工具等。
 | 🤖 AI+｜AI编程&程序开发 | [https://t.me/clawstaffs](https://t.me/clawstaffs) | 用 AI 自动化开发技术构建 AI Agent,数字员工 提效你的业务！ |
 | 🎨 AI+｜AI做图 & 提示词分享 | [https://t.me/ailibrarya](https://t.me/ailibrarya) | 分享 GPT Image、Midjourney、FLUX、Nano Banana、Grok提示词/Prompt与做图技巧,每周更新！ |
 | 👷 AI+ ｜AI提效工具&Tools推荐 | [https://t.me/skillslib](https://t.me/skillslib) | 用 AI 把你的工作效率提高 10 倍，每周分享实战工作流、skills、Agent、AI工具、AI应用案例！ |
-| Genshin PaiHub | [https://t.me/paihub](https://t.me/paihub) | 原神相关资讯、资源与社区讨论频道，覆盖各类热点内容。 |
-| [NSFW]小说分享 | [https://t.me/novel_174](https://t.me/novel_174) | 小说分享与题材聚合频道，内容偏成人向与故事资源整理。 |
-| YuanShen Hub | [https://t.me/yuanshenhub](https://t.me/yuanshenhub) | 原神资讯、资源与相关社区情报聚合。 |
-| 【真人AI短剧 \|AI 成人短剧 \| NSFW \| 国漫】 | [https://t.me/airvip8](https://t.me/airvip8) | AI 成人短剧与国漫题材内容聚合分享频道。 |
-| 舰队のai漫改成人涩短剧 | [https://t.me/animation_favorites](https://t.me/animation_favorites) | AI 漫改成人短剧与动画内容收藏频道。 |
-| 咪咕资源【Ai成人短剧】 | [https://t.me/styun84](https://t.me/styun84) | AI 成人短剧资源分享与内容更新频道。 |
-| 精选ai成人短剧 | [https://t.me/ojgorgr](https://t.me/ojgorgr) | 精选 AI 成人短剧内容与更新推荐。 |
-| 西瓜短剧(AI短剧) | [https://t.me/xgduanju](https://t.me/xgduanju) | AI 短剧内容与动画式资源整理频道。 |
-| 抖音AI动漫短剧视频 | [https://t.me/tamanila](https://t.me/tamanila) | 抖音 AI 动漫短剧视频与内容推荐聚合。 |
-| 原神涩区！ | [https://t.me/yuanshen47](https://t.me/yuanshen47) | 原神相关成人内容与相关交流聚合频道。 |
 
 #### Web3
 
@@ -85,6 +75,24 @@ AI 助理、格式转换、下载工具等。
 | 撸空投💰币圈💰Web3💰财务自由 | [https://t.me/tglukongtou](https://t.me/tglukongtou) | 币圈空投、Web3 资讯与财务自由相关讨论。 |
 | Toncoin 中文频道 | [https://t.me/toncoin_cn](https://t.me/toncoin_cn) | Toncoin 中文资讯与生态动态更新频道。 |
 | FTX公告 | [https://t.me/ftx_cn](https://t.me/ftx_cn) | FTX 相关公告、资讯与交易动态更新。 |
+
+#### 影视与短剧
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| 西瓜短剧(AI短剧) | [https://t.me/xgduanju](https://t.me/xgduanju) | AI 短剧内容与动画式资源整理频道。 |
+| 抖音AI动漫短剧视频 | [https://t.me/tamanila](https://t.me/tamanila) | 抖音 AI 动漫短剧视频与内容推荐聚合。 |
+
+#### 成人内容（NSFW）
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| [NSFW]小说分享 | [https://t.me/novel_174](https://t.me/novel_174) | 小说分享与题材聚合频道，内容偏成人向与故事资源整理。 |
+| 【真人AI短剧 \|AI 成人短剧 \| NSFW \| 国漫】 | [https://t.me/airvip8](https://t.me/airvip8) | AI 成人短剧与国漫题材内容聚合分享频道。 |
+| 舰队のai漫改成人涩短剧 | [https://t.me/animation_favorites](https://t.me/animation_favorites) | AI 漫改成人短剧与动画内容收藏频道。 |
+| 咪咕资源【Ai成人短剧】 | [https://t.me/styun84](https://t.me/styun84) | AI 成人短剧资源分享与内容更新频道。 |
+| 精选ai成人短剧 | [https://t.me/ojgorgr](https://t.me/ojgorgr) | 精选 AI 成人短剧内容与更新推荐。 |
+| 原神涩区！ | [https://t.me/yuanshen47](https://t.me/yuanshen47) | 原神相关成人内容与相关交流聚合频道。 |
 
 #### 新闻
 
@@ -98,6 +106,13 @@ AI 助理、格式转换、下载工具等。
 | 东南亚大事件 | [https://t.me/daxxx](https://t.me/daxxx) | 东南亚热点事件、新闻与时事分析频道。 |
 | 獨立媒體 inmediahk.net | [https://t.me/inmediahknet](https://t.me/inmediahknet) | 香港独立媒体新闻与分析资讯频道。 |
 | 【华尔街见闻】- 财经时讯 \| AI 实时互动 | [https://t.me/financenewsdaily](https://t.me/financenewsdaily) | 财经时讯、AI 实时互动与市场资讯频道。 |
+
+#### 游戏与二次元
+
+| 名称 | 链接 | 简介 |
+| --- | --- | --- |
+| Genshin PaiHub | [https://t.me/paihub](https://t.me/paihub) | 原神相关资讯、资源与社区讨论频道，覆盖各类热点内容。 |
+| YuanShen Hub | [https://t.me/yuanshenhub](https://t.me/yuanshenhub) | 原神资讯、资源与相关社区情报聚合。 |
 
 #### 资源
 
