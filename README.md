@@ -172,6 +172,7 @@ python3 scripts/link_checker.py
 ```
 
 **关于可靠性**：对于公开 `@username` 类型的机器人 / 频道，Telegram 的网页预览（t.me）即使对着一个编造但格式合法的用户名，也会乐观地渲染出"可联系 / 可加入"的页面，并不会在网页层做真实存在性校验。因此脚本默认的抓取模式只能标记为 `UNCONFIRMED`（可访问但未确认存在），无法保证条目真实有效。若需要真正可靠的校验，请通过 [@BotFather](https://t.me/BotFather) 免费申请一个 Bot Token，并设置环境变量后再运行：
+- [Tiny Telegram Tools](https://tg.zovo.one) — 22 个单一用途 Telegram 机器人：匿名信箱、派对游戏、账单分摊、习惯打卡、提醒、专注计时等。
 
 ```bash
 export TELEGRAM_BOT_TOKEN="123456:AAExampleTokenFromBotFather"
