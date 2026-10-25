@@ -340,5 +340,14 @@
     "category": "资源",
     "added_by": "community",
     "verified": true
+  },
+  {
+    "name": "A-Znk's trajectory",
+    "username": "A_ZNKV",
+    "url": "https://t.me/A_ZNKV",
+    "description": "中文为主的 AI 研究笔记，分享 AI 论文、LLM/Agent 工程、AI Safety 与开源工具实践。",
+    "category": "资讯与技术",
+    "added_by": "Yuki-zik",
+    "verified": true
   }
 ]
