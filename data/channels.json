@@ -340,5 +340,14 @@
     "category": "资源",
     "added_by": "community",
     "verified": true
+  },
+  {
+    "name": "币圈线报局｜每天三分钟看懂行情",
+    "username": "CryptoAlphaBrief",
+    "url": "https://t.me/CryptoAlphaBrief",
+    "description": "每日币圈行情简报：BTC/ETH/SOL 价格、恐惧贪婪指数与海外币圈头条，只发数据，不喊单、不承诺收益。",
+    "category": "Web3",
+    "added_by": "xwdeshenghuo",
+    "verified": true
   }
 ]

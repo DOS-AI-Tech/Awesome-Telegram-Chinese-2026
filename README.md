@@ -75,6 +75,7 @@ AI 助理、格式转换、下载工具等。
 | 撸空投💰币圈💰Web3💰财务自由 | [https://t.me/tglukongtou](https://t.me/tglukongtou) | 币圈空投、Web3 资讯与财务自由相关讨论。 |
 | Toncoin 中文频道 | [https://t.me/toncoin_cn](https://t.me/toncoin_cn) | Toncoin 中文资讯与生态动态更新频道。 |
 | FTX公告 | [https://t.me/ftx_cn](https://t.me/ftx_cn) | FTX 相关公告、资讯与交易动态更新。 |
+| 币圈线报局｜每天三分钟看懂行情 | [https://t.me/CryptoAlphaBrief](https://t.me/CryptoAlphaBrief) | 每日币圈行情简报：BTC/ETH/SOL 价格、恐惧贪婪指数与海外币圈头条，只发数据，不喊单、不承诺收益。 |
 
 #### 影视与短剧
 
